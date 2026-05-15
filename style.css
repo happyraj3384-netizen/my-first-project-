@@ -63,3 +63,16 @@ transform: scale(1);
 h1 {
 animation: glow 3s infinite;
 }
+.hero {
+
+background: rgba(255,255,255,0.08);
+
+padding: 50px;
+
+border-radius: 25px;
+
+backdrop-filter: blur(10px);
+
+box-shadow: 0 0 30px rgba(0,0,0,0.4);
+
+}
