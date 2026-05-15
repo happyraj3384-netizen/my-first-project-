@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(black, purple);
+  background: linear-gradient(to right red, purple, blue);
   color: white;
   display: flex;
   justify-content: center;
